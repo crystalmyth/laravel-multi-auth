@@ -1043,8 +1043,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Crystalmyth",
+                    "email": ""
                 }
             ],
             "description": "The Laravel Framework.",
@@ -1110,8 +1110,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Crystalmyth",
+                    "email": ""
                 }
             ],
             "description": "Powerful REPL for the Laravel framework.",
@@ -5320,8 +5320,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Crystalmyth",
+                    "email": ""
                 }
             ],
             "description": "Minimal Laravel authentication scaffolding with Blade and Tailwind.",
